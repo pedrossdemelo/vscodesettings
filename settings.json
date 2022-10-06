@@ -1,0 +1,161 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+  "eslint.options": {},
+  "terminal.integrated.gpuAcceleration": "on",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.exclude": {
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.classpath": true,
+    "**/.factorypath": true
+  },
+  "editor.semanticHighlighting.enabled": true,
+  "editor.fontFamily": "Google Sans Mono",
+  "explorer.confirmDelete": false,
+  "files.eol": "\n",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "editor.accessibilitySupport": "off",
+  "editor.tabSize": 2,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "vscode-color-picker.languages": [
+    "html",
+    "python",
+    "javascript",
+    "typescript",
+    "postcss",
+    "sass",
+    "scss",
+    "less"
+  ],
+  "eslint.format.enable": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": true,
+    "python": true,
+    "jsonc": true,
+    "code-runner-output": true,
+    "javascript": true
+  },
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "terminal.integrated.fontFamily": "Google Sans Mono",
+  "window.autoDetectColorScheme": true,
+  "workbench.tree.renderIndentGuides": "always",
+  "workbench.preferredDarkColorTheme": "Moonlight II",
+  "editor.bracketPairColorization.enabled": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "files.autoSave": "afterDelay",
+  "editor.fontLigatures": true,
+  "editor.lineNumbers": "relative",
+  "workbench.preferredLightColorTheme": "GitHub Light",
+  "explorer.confirmDragAndDrop": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.suggestSelection": "first",
+  "workbench.startupEditor": "none",
+  "editor.inlineSuggest.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.confirmSync": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.renderWhitespace": "all",
+  "[dockercompose]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "code-runner.enableAppInsights": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "errorLens.enabledDiagnosticLevels": ["error", "info", "warning"],
+  "git.postCommitCommand": "push",
+  "code-runner.executorMap": {
+    "python": "python3 -u"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "[postcss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.arrowParens": "avoid",
+  "editor.formatOnSave": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vim.camelCaseMotion.enable": true,
+  "reactSnippets.settings.typescriptPropsStatePrefix": "interface",
+  "reactSnippets.settings.importReactOnTop": false,
+  "reactSnippets.settings.prettierEnabled": true,
+  "tailwindCSS.experimental.classRegex": [
+    "tw`([^`]*)", // tw`...`
+    "tw=\"([^\"]*)", // <div tw="..." />
+    "tw={\"([^\"}]*)", // <div tw={"..."} />
+    "tw\\.\\w+`([^`]*)", // tw.xxx`...`
+    "tw\\(.*?\\)`([^`]*)", // tw(Component)`...`
+    "tw\\.style\\(([^)]*)\\)", // tw.style("...")
+    "classList={{\"([^\"}]*)" // <div classList={{"..."}} />
+  ],
+  "editor.linkedEditing": true,
+  "python.formatting.provider": "black",
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "workbench.activityBar.visible": false,
+  "npm.keybindingsChangedWarningShown": true,
+  "svelte.enable-ts-plugin": true,
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "python.analysis.inlayHints.variableTypes": true,
+  "python.analysis.inlayHints.functionReturnTypes": true,
+  "editor.inlayHints.padding": true,
+  "editor.inlayHints.enabled": "offUnlessPressed",
+  "dart.flutterHotReloadOnSave": "allIfDirty",
+  "dart.showInspectorNotificationsForWidgetErrors": false,
+  "editor.stickyScroll.enabled": true,
+  "lldb.library": "/Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/LLDB",
+  "editor.guides.bracketPairs": "active",
+  "workbench.colorTheme": "GitHub Light",
+  "codesnap.transparentBackground": true,
+  "codesnap.showWindowTitle": true,
+  "vscode_custom_css.imports": [""],
+  "window.zoomLevel": 1
+}
